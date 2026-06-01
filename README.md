@@ -1,6 +1,16 @@
 Attack on Titan Report Card Generator
 
-A beginner Python project inspired by Attack on Titan.
+# Beginner Python Project Inspired by Attack on Titan 🗼
+
+AOT themed Student Grade Calculator built with Python.
+
+## 🚀 Features
+- **S/A/B/C/F Rank System** - Erwin to Titan food
+- **Top & Weak Subject Finder** - Know your strengths
+- **ASCII Progress Bar** - Visual performance tracking
+- **Arrears Warning** - Fails subject ku alert
+
+## 📊 S-Rank Output Example
 
 Features
 
